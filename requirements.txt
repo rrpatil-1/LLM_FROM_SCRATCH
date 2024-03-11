@@ -1,0 +1,7 @@
+matplotlib
+numpy
+ipynb
+torch
+torchvision
+torchaudio
+pylzma
